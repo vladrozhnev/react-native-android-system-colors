@@ -1,7 +1,7 @@
 {
   "name": "react-native-android-system-colors",
   "description": "Library for managing the native colors of an Android app.",
-  "version": "0.1.0", 
+  "version": "0.2.0", 
   "license": "MIT",
   "repository": {
     "url": "https://github.com/vladrozhnev/react-native-android-system-colors.git",
